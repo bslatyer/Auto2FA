@@ -2,7 +2,7 @@
 //  Reducer.swift
 //  Auto2FA
 //
-//  Created by JT Bergman on 1/21/23.
+//  Created by Braeden Slatyer on 27/10/23.
 //
 
 import AppKit

@@ -2,7 +2,7 @@
 //  OnboardingView.swift
 //  Auto2FA
 //
-//  Created by JT Bergman on 1/20/23.
+//  Created by Braeden Slatyer on 27/10/23.
 //
 
 import SwiftUI
@@ -79,7 +79,7 @@ struct OnboardingView: View {
       Text("All push notifications will be cleared automatically.")
         .font(.system(.caption, design: .rounded))
         .foregroundColor(.gray)
-      Text("[View Source Code](https://github.com/jtbergman/Auto2FA)")
+      Text("[View Source Code](https://github.com/bslatyer/Auto2FA)")
         .font(.system(.caption, design: .rounded))
         .opacity(0.8)
     }

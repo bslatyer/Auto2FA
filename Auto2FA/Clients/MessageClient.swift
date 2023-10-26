@@ -2,7 +2,7 @@
 //  MessageClient.swift
 //  Auto2FA
 //
-//  Created by JT Bergman on 1/21/23.
+//  Created by Braeden Slatyer on 27/10/23.
 //
 
 import Foundation
@@ -41,7 +41,7 @@ final class MessageClient {
     sqlite3_finalize(preparedQuery)
     (db, preparedQuery) = (nil, nil)
   }
-  
+
   func canAccessMessagesDB() -> Bool {
     FileManager.default.isReadableFile(atPath: messagesURL.path())
   }

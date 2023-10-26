@@ -2,7 +2,7 @@
 //  Constants.swift
 //  Auto2FA
 //
-//  Created by JT Bergman on 1/21/23.
+//  Created by Braeden Slatyer on 27/10/23.
 //
 
 import Foundation
@@ -26,4 +26,4 @@ let lastShownCodeDateKey = "com.Auto2FA.lastShownCodeDate"
 let fullDiskAccessSettingURL = "x-apple.systempreferences:com.apple.preference.security?Privacy_AllFiles"
 
 /// The URL for reporting issues with reading codes
-let reportIssueURL = "https://github.com/jtbergman/Auto2FA/issues/new?template=bug_report.md"
+let reportIssueURL = "https://github.com/bslatyer/Auto2FA/issues/new?template=bug_report.md"

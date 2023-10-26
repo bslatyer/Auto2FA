@@ -1,61 +1,58 @@
 {
   "images" : [
     {
-      "filename" : "2FA-16.png",
+      "filename" : "Auto2FA_16x16x32.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "16x16"
     },
     {
-      "filename" : "2FA-32 1.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "16x16"
     },
     {
-      "filename" : "2FA-32.png",
+      "filename" : "Auto2FA_32x32x32.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "32x32"
     },
     {
-      "filename" : "2FA-64.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "32x32"
     },
     {
-      "filename" : "2FA-128.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "128x128"
     },
     {
-      "filename" : "2FA-256 1.png",
+      "filename" : "Auto2FA_256x256x32 1.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "128x128"
     },
     {
-      "filename" : "2FA-256.png",
+      "filename" : "Auto2FA_256x256x32.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "256x256"
     },
     {
-      "filename" : "2FA-512 1.png",
+      "filename" : "Auto2FA_512x512x32 1.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "256x256"
     },
     {
-      "filename" : "2FA-512.png",
+      "filename" : "Auto2FA_512x512x32.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "512x512"
     },
     {
-      "filename" : "2FA.png",
+      "filename" : "Auto2FA_1024x1024x32.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "512x512"
