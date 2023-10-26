@@ -1,8 +1,8 @@
 # 🔐 Auto2FA
-Automatically copy SMS 2FA[^1] codes for use in Chrome, Firefox, desktop apps, etc. [How it works](https://github.com/jtbergman/Auto2FA/blob/main/DEVELOPERS.md).
+Automatically copy SMS 2FA[^1] codes for use in Chrome, Firefox, desktop apps, etc. [How it works](https://github.com/bslatyer/Auto2FA/blob/main/DEVELOPERS.md).
 
 ## 🚀 Installation
-1. Go to the [current release](https://github.com/jtbergman/Auto2FA/releases/tag/v1.0) and download the `Auto2FA.zip` file
+1. Go to the [current release](https://github.com/bslatyer/Auto2FA/releases/tag/v1.0) and download the `Auto2FA.zip` file
 2. Unzip the downloaded file and move `Auto2FA` to your Applications folder
 3. On your iPhone, go to Settings > Messages > Text Message Forwarding and enable forwarding to your Mac
 
